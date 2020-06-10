@@ -1,0 +1,76 @@
+﻿Name,Category
+rice,grain
+noodle,grain
+quinoa,grain
+tortilla,grain
+pita,grain
+flour,baking
+baking,baking
+chocolate,baking
+broth,canned good
+can,canned good
+bean,canned good
+paste,canned good
+bottle,canned good
+milk,dairy
+egg,dairy
+yogurt,dairy
+cheese,dairy
+butter,dairy
+chili,spice
+cayanne,spice
+cumin,spice
+salt,spice
+black pepper,spice
+cinnamon,spice
+powder,spice
+dried,spice
+soy,condiment
+teriyaki,condiment
+tahini,condiment
+vinegar,condiment
+oil,condiment
+barbecue,condiment
+ketchup,condiment
+mustard,condiment
+mayonnaise,condiment
+cider,condiment
+broccoli,vegetable
+carrot,vegetable
+spinach,vegetable
+pepper,vegetable
+zucchini,vegetable
+squash,vegetable
+lettuce,vegetable
+tomato,vegetable
+cabbage,vegetable
+leek,vegetable
+arugala,vegetable
+onion,vegetable
+garlic,vegetable
+tomato,vegetable
+cilantro,vegetable
+fresh,vegetable
+strawberry,fruit
+apple,fruit
+banana,fruit
+blueberry,fruit
+watermelon,fruit
+orange,fruit
+lemon,fruit
+lime,fruit
+grape,fruit
+chicken,meat
+beef,meat
+pork,meat
+turkey,meat
+steak,meat
+salmon,meat
+tilapia,meat
+shrimp,meat
+crab,meat
+lobster,meat
+sausage,meat
+bacon,meat
+ham,meat
+prosciutto,meat
